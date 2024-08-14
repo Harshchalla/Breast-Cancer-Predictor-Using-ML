@@ -1,11 +1,7 @@
-# AI-ML Breast Cancer Predictor
-- The number of deaths caused by breast cancer is dramatically rising each year. It is the most prevalent form of cancer and the leading global cause of mortality for women. For a healthy life, any advancement in cancer illness prediction and detection is crucial. As a result, accurate cancer prognosis is crucial to updating the treatment standard and patient survival rate. Machine learning methods have become a focus of research and have been demonstrated to be effective in the early detection and prediction of breast cancer.
+-Developed a predictive model for breast cancer classification using machine learning algorithms such as Logistic Regression, Decision Tree, Random Forest, and Support Vector Classifier, leveraging Jupyter Notebook for data analysis and model development.
 
-- From the data set obtained from Hospital and ML algorithm we predict the accuracy of abnormalties in Genes from which we can predict if the person is having Malignant or Benign type of Breast Cancer.
+-Engineered and processed medical datasets to optimize the training and testing phases, ensuring high accuracy in predicting malignant or benign tumors based on gene abnormalities.
 
-Methods  used here are
-1.Logistic Regression
-2.Decision Tree Classifier
-3.Random Forest Classifier
-4.Support Vector Classifier
+-Implemented data pre-processing techniques including normalization, feature selection, and cross-validation to enhance model performance and reliability.
 
+-Integrated multiple machine learning models to compare and validate the accuracy and robustness of predictions, providing insights into the effectiveness of various algorithms in a healthcare context.
